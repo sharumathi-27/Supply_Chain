@@ -20,7 +20,7 @@ This project focuses on analyzing supply chain data to uncover insights related 
 ---
 
 ## 🛠 Tools & Technologies
-- **SQL (MySQL)** – Data querying and analysis  
+- **SQL (MySQL)** – Data cleaning and analysis  
 - **Power BI** – Interactive dashboard creation  
 - **Excel/CSV** – Data source  
 
