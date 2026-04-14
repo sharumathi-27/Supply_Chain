@@ -1,6 +1,10 @@
 
 # 📊 Supply Chain Data Analysis using SQL & Power BI
 
+<img width="757" height="424" alt="Screenshot 2026-04-14 193850" src="https://github.com/user-attachments/assets/42528891-1a4e-43c5-984b-fe5eeb1a7dd1" />
+<img width="754" height="422" alt="Screenshot 2026-04-14 194743" src="https://github.com/user-attachments/assets/20cdddb4-a80b-4d64-8611-df1117bf9d95" />
+<img width="748" height="420" alt="Screenshot 2026-04-14 194805" src="https://github.com/user-attachments/assets/19abdf26-e715-453d-a8e4-d399a7ed5752" />
+
 ## 🚀 Project Overview
 This project focuses on analyzing supply chain data to uncover insights related to delivery performance, sales, profitability, and operational risks. Using SQL for data analysis and Power BI for visualization, the project helps in identifying inefficiencies and improving business decision-making.
 
@@ -87,12 +91,4 @@ The dashboard includes:
 ## 💼 Conclusion
 
 This project demonstrates how SQL and Power BI can be used together to transform raw supply chain data into actionable business insights. It highlights key problem areas and supports data-driven decision-making.
-
----
-
-## Dashboard
-<img width="757" height="424" alt="Screenshot 2026-04-14 193850" src="https://github.com/user-attachments/assets/42528891-1a4e-43c5-984b-fe5eeb1a7dd1" />
-<img width="754" height="422" alt="Screenshot 2026-04-14 194743" src="https://github.com/user-attachments/assets/20cdddb4-a80b-4d64-8611-df1117bf9d95" />
-<img width="748" height="420" alt="Screenshot 2026-04-14 194805" src="https://github.com/user-attachments/assets/19abdf26-e715-453d-a8e4-d399a7ed5752" />
-
 
